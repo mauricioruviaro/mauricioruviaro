@@ -40,7 +40,7 @@
   <img src="https://profile-counter.glitch.me/mauricioruviaro/count.svg" alt="Visitor Count" align="center" />
   <br>
   <br>
-  <span>Meu Porfolio</span>
+  <span></span>
   <br>
-  <a>https://mauricioruviaro.github.io/<a/>
+  <a href="https://mauricioruviaro.github.io/">Meu Porfolio<a/>
 </p>
