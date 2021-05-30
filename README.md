@@ -43,6 +43,7 @@
   <span></span>
   <br>
   <a href="https://mauricioruviaro.github.io/">Meu Porfolio<a/>
-  <a href="https://mauricioruviaro.github.io/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=30px width="30px"><a/>
-    https://image.flaticon.com/icons/png/512/174/174857.png
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=30px width="30px"><a/>
 </p>
