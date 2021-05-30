@@ -33,17 +33,11 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=30px width="30px"><a/>
+  <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://www.seekpng.com/png/full/154-1545314_portfolio-icon-sales.png" height=30px             width="30px"><a/>
+    </div>
 <br>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/mauricioruviaro/count.svg" alt="Visitor Count" align="center" />
-  <br>
-  <br>
-  <span></span>
-  <br>
-  <a href="https://mauricioruviaro.github.io/">Meu Porfolio<a/>
-  <br>
-  <br>
-  <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=30px width="30px"><a/>
 </p>
