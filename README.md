@@ -17,7 +17,7 @@
      
 
 <div align="center">
- <h4>A Linux user developing in another operational system:</h4>
+ <h4 color="red">A Linux user developing in another operational system:</h4>
 <img src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif" height="150px" width="220px"> <img src="https://acegif.com/wp-content/gifs/monkey-114.gif" height="150px" width="220px"> <img src="https://thumbs.gfycat.com/BluePartialHomalocephale-max-1mb.gif" height="150px" width="220px"> <img src="https://i.pinimg.com/originals/d6/96/17/d696177e218c58adfc827af063517b10.gif" height="150px" width="220px">
 </div>
 
@@ -35,7 +35,7 @@
 <br>
   <div align="center">
   <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=30px width="30px"><a/>
-  <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://www.seekpng.com/png/full/154-1545314_portfolio-icon-sales.png" height=30px             width="30px"><a/>
+  <a href="https://mauricioruviaro.github.io/"><img src="https://www.seekpng.com/png/full/154-1545314_portfolio-icon-sales.png" height=30px             width="30px"><a/>
     </div>
 <br>
 <p align="center"> 
