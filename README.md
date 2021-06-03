@@ -21,7 +21,6 @@
 <img src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif" height="150px" width="220px"> <img src="https://acegif.com/wp-content/gifs/monkey-114.gif" height="150px" width="220px"> <img src="https://thumbs.gfycat.com/BluePartialHomalocephale-max-1mb.gif" height="150px" width="220px"> <img src="https://i.pinimg.com/originals/d6/96/17/d696177e218c58adfc827af063517b10.gif" height="150px" width="220px">
 </div>
  -->
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mauricioruviaro&show_icons=true&hide_border=true&theme=white" width="48%"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mauricioruviaro&theme=white" width="48%">
 
@@ -31,9 +30,7 @@
 <a href="https://www.buymeacoffee.com/mauricioruviaro"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" height="45px" width="150px"><a/>
  
 <br>
-<br>
-<br>
-  
+ 
 <div align="center">
   <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=30px width="30px"><a/>
   <a href="https://mauricioruviaro.github.io/"><img src="https://www.seekpng.com/png/full/154-1545314_portfolio-icon-sales.png" height=30px                   width="30px"><a/>
