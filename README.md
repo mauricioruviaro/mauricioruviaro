@@ -30,13 +30,7 @@
 <h3>If you like my projects, consider pay me a coffee! ☕ </h3>
 <a href="https://www.buymeacoffee.com/mauricioruviaro"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" height="45px" width="150px"><a/>
  
-<br>
- 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mauricioruviaro/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height=30px width="30px"><a/>
-  <a href="https://mauricioruviaro.github.io/"><img src="https://www.seekpng.com/png/full/154-1545314_portfolio-icon-sales.png" height=30px                   width="30px"><a/>
-</div>
-    
+<br>  
 <br>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/mauricioruviaro/count.svg" alt="Visitor Count" align="center" />
