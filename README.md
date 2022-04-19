@@ -30,6 +30,7 @@
   <img src="https://profile-counter.glitch.me/mauricioruviaro/count.svg" alt="Visitor Count" align="center" />
 </p>
 
-<p align="center">
+<divign="center">
   ![snake gif](https://github.com/mauricioruviaro/mauricioruviaro/blob/output/github-contribution-grid-snake.svg)
-</p>
+</div
+<!-- ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg) -->
