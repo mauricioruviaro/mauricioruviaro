@@ -1,29 +1,8 @@
+# Mauricio Ruviaro
 
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/    
-  
-  
-  
+Full stack web developer @SGBr.
 
-     
+Enthusiast of technology and programming.
 
- <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mauricioruviaro&show_icons=true&hide_border=false&theme=tokyonight" width="48%"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mauricioruviaro&theme=tokyonight" width="48%">
-<br>
-  ![snake gif](https://github.com/mauricioruviaro/mauricioruviaro/blob/output/github-contribution-grid-snake.svg)
-<br>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/mauricioruviaro/count.svg" alt="Visitor Count" align="center" />
-</p>
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-Mauricio%20Ruviaro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricioruviaro/)](https://www.linkedin.com/in/mauricioruviaro/) 
+[![Gmail Badge](https://img.shields.io/badge/-mauricioruviaro07@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricioruviaro07@gmail.com)](mailto:mauricioruviaro07@gmail.com)
