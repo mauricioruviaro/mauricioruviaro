@@ -1,6 +1,6 @@
 # Mauricio Ruviaro
 
-Full stack web developer @SGBr.
+Full stack web developer @sgbrsist.
 
 Enthusiast of technology and programming.
 
