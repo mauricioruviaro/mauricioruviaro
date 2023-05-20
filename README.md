@@ -1,7 +1,5 @@
 # Mauricio Ruviaro
 
-Backend developer.<br>
-Passionate about technology.
+Sou um apaixonado por programação, com mais de um ano de experiência no campo. Tenho uma mentalidade de aprendizado contínuo. Meu objetivo é criar soluções de software eficientes e escaláveis, aproveitando as melhores práticas de desenvolvimento e tecnologias inovadoras. Sou um colaborador proativo, capaz de trabalhar tanto em equipes quanto de forma independente.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mauricio%20Ruviaro-6945be?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricioruviaro/)](https://www.linkedin.com/in/mauricioruviaro/) 
-[![Gmail Badge](https://img.shields.io/badge/-mauricioruviaro07@gmail.com-6945be?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricioruviaro07@gmail.com)](mailto:mauricioruviaro07@gmail.com)
+Estou entusiasmado em fazer parte de projetos desafiadores que me permitam crescer profissionalmente e contribuir para o sucesso das empresas. Vamos construir o futuro juntos!
